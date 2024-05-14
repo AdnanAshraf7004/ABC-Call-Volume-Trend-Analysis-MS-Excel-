@@ -1,2 +1,2 @@
 # ABC-Call-Volume-Trend-Analysis-MS-Excel-
-Conducted inbound call volume analysis for ABC Insurance over 23 days.  
+Conducted inbound call volume analysis for ABC Insurance over 23 days. Tasks included determining average call duration, visualizing volume over time, proposing manpower plans to reduce abandonment rates, and optimizing nighttime staffing for improved customer experience. Utilized MS Excel for data analysis and statistical techniques. Developed allocation plans based on call volume. Resulted in a comprehensive report with insights and recommendations. 
